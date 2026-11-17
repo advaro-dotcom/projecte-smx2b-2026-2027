@@ -308,7 +308,7 @@ Primer de tot, en el càs del prototip, l'empresa encarregada d'enviar el paquet
 5. metodés de transport especialitzats pel transport de productes amb aquesta idea
 6. incorporar connexió de xarxa móbil per veure en temps real els paquets en llocs locals
 
-### WearSafe: descripció del projecte
+### [WearSafe](https://github.com/cuencaaa11/Projecte-Roba.git)
 1. Context
 
 On s’emmarca. WearSafe és una start-up petita, fundada fa poc, que encara no té cap sistema informàtic propi. Només té una idea clara i un equip petit. Nosaltres fem de l’equip tècnic que li dissenya i li posa en marxa tota la infraestructura.
